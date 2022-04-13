@@ -1,0 +1,35 @@
+_repo: Martin-Valliant_67586
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Deeping, Warwick
+    alias: Deeping, George Warwick
+    birthdate: 1877
+    deathdate: 1950
+    gutenberg_agent_id: '41615'
+    url: http://www.gutenberg.org/2009/agents/41615
+    wikipedia: https://en.wikipedia.org/wiki/Warwick_Deeping
+description: ''
+gutenberg_issued: '2022-03-08'
+identifiers:
+  gutenberg: '67586'
+  lccn: '17010202'
+language: en
+pgterms:marc905: 20180121150306deeping
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Mardi Desjardins & the online Distributed Proofreaders Canada team
+  at https://www.pgdpcanada.net
+publication_note: United States :Robert M. McBride & Company,1917.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Monks -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Romance fiction'
+- !lcsh 'Great Britain -- History -- Richard III, 1483-1485 -- Fiction'
+- GITenberg
+title: Martin Valliant
+url: http://www.gutenberg.org/ebooks/67586
